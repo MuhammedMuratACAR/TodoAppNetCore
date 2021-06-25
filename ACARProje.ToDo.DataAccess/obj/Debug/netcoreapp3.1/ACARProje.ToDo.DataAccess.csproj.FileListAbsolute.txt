@@ -1,0 +1,15 @@
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.deps.json
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.dll
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.pdb
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.dll
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.pdb
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.csprojAssemblyReference.cache
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.AssemblyInfo.cs
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.csproj.CopyComplete
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.dll
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.pdb
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.runtimeconfig.json
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\bin\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.runtimeconfig.dev.json
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.genruntimeconfig.cache
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.DataAccess\obj\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.csproj.CoreCompileInputs.cache

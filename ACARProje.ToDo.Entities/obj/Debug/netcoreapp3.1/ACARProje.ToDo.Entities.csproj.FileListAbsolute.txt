@@ -1,0 +1,9 @@
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Entities\bin\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.deps.json
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Entities\bin\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.dll
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Entities\bin\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.pdb
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Entities\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.csprojAssemblyReference.cache
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Entities\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.AssemblyInfoInputs.cache
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Entities\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.AssemblyInfo.cs
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Entities\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.dll
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Entities\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.pdb
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Entities\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.csproj.CoreCompileInputs.cache

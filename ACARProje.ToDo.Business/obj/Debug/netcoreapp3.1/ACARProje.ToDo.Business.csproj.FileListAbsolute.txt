@@ -1,0 +1,14 @@
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\bin\Debug\netcoreapp3.1\ACARProje.ToDo.Business.deps.json
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\bin\Debug\netcoreapp3.1\ACARProje.ToDo.Business.dll
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\bin\Debug\netcoreapp3.1\ACARProje.ToDo.Business.pdb
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\bin\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.dll
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\bin\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.dll
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\bin\Debug\netcoreapp3.1\ACARProje.ToDo.DataAccess.pdb
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\bin\Debug\netcoreapp3.1\ACARProje.ToDo.Entities.pdb
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Business.csprojAssemblyReference.cache
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Business.AssemblyInfoInputs.cache
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Business.AssemblyInfo.cs
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Business.csproj.CoreCompileInputs.cache
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Business.csproj.CopyComplete
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Business.dll
+C:\Users\acarm\source\repos\ToDo\ACARProje.ToDo.Business\obj\Debug\netcoreapp3.1\ACARProje.ToDo.Business.pdb
